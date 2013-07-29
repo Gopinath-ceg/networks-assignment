@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.30)  29 JUL 2013 05:33
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.30)  29 JUL 2013 05:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -347,36 +347,55 @@ Overfull \hbox (8.80623pt too wide) in paragraph at lines 44--46
 a-Tier-1-2-and-
  []
 
+! Undefined control sequence.
+l.49 \\\\Source: \url
+                     {http://www.internetslang.com/RFC-meaning-definition.asp}
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+! Undefined control sequence.
+l.52 \\\\Source: \url
+                     {http://netsecurity.about.com/cs/hackertools/a/aa121403...
+
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
 <1.png, id=11, 592.2125pt x 284.06125pt>
 File: 1.png Graphic file (type png)
  <use 1.png>
-Package pdftex.def Info: 1.png used on input line 50.
+Package pdftex.def Info: 1.png used on input line 55.
 (pdftex.def)             Requested size: 256.0748pt x 122.83311pt.
-
-<2.png, id=12, 624.3325pt x 148.555pt>
+ [2]
+<2.png, id=15, 624.3325pt x 148.555pt>
 File: 2.png Graphic file (type png)
  <use 2.png>
-Package pdftex.def Info: 2.png used on input line 55.
+Package pdftex.def Info: 2.png used on input line 60.
 (pdftex.def)             Requested size: 256.0748pt x 60.9306pt.
 
-<3.png, id=13, 724.7075pt x 284.06125pt>
+<3.png, id=16, 724.7075pt x 284.06125pt>
 File: 3.png Graphic file (type png)
  <use 3.png>
-Package pdftex.def Info: 3.png used on input line 60.
+Package pdftex.def Info: 3.png used on input line 65.
 (pdftex.def)             Requested size: 256.0748pt x 100.37215pt.
 
-<4.png, id=14, 669.50125pt x 152.57pt>
+<4.png, id=17, 669.50125pt x 152.57pt>
 File: 4.png Graphic file (type png)
  <use 4.png>
-Package pdftex.def Info: 4.png used on input line 65.
+Package pdftex.def Info: 4.png used on input line 70.
 (pdftex.def)             Requested size: 256.0748pt x 58.35666pt.
 
-<5.png, id=15, 616.3025pt x 172.645pt>
+<5.png, id=18, 616.3025pt x 172.645pt>
 File: 5.png Graphic file (type png)
  <use 5.png>
-Package pdftex.def Info: 5.png used on input line 71.
+Package pdftex.def Info: 5.png used on input line 76.
 (pdftex.def)             Requested size: 256.0748pt x 71.7359pt.
- [2] [3 <./1.png> <./2.png> <./3.png> <./4.png>] [4 <./5.png>] (./first.aux)
+ [3 <./1.png> <./2.png> <./3.png> <./4.png>] [4 <./5.png>] (./first.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -384,17 +403,17 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  1515 strings out of 495059
  21378 string characters out of 3182030
- 74288 words of memory out of 3000000
+ 75288 words of memory out of 3000000
  4702 multiletter control sequences out of 15000+200000
  7947 words of font info for 28 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 37i,6n,23p,262b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,6n,23p,374b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on first.pdf (4 pages, 144422 bytes).
+Output written on first.pdf (4 pages, 146674 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
